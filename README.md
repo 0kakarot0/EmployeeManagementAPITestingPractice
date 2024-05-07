@@ -13,7 +13,7 @@ This project is aimed at testing the Employee Management API endpoints using Res
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/employee-management-api-testing.git
+   git clone https://github.com/0kakarot0/EmployeeManagementAPITestingPractice.git
    ```
 2. **Install Dependencies**:
     - Ensure you have Maven installed. If not, download and install it from [Maven's official website](https://maven.apache.org/download.cgi).
